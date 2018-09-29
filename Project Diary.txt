@@ -1,0 +1,10 @@
+
+29/9/18 11:00 - 14:30
+  
+  Group Disccusion, prototyping
+  Participants: Nimmy, Unmesh, Yujie
+  We decided to work on the diabetes data, our project will compromised by two parts:
+  --Wrangling the US hospitals Diabetes data for years 1999-2008 and visualising it
+  --Scraping data about diabetes data worldwide from the webpage, wrangle it and  
+    visualising it.
+  We also developed some initial codes.
