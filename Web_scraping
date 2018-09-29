@@ -10,6 +10,36 @@ library(dplyr)
 library(tidyr)
 
 #Scraping the table for the africa region from who website
+
+#Reading URLs
 url_titles <- "http://www.who.int/diabetes/facts/world_figures/en/index1.html" # this is the base url from where the scraping starts
 page_title <- read_html(url_titles)
 
+#Looking at the HTML structure
+page_title %>% typeof()
+page_title %>% glimpse()
+
+page_title %>%
+ html_structure()
+ 
+#Scraping table from a webpage using xpath
+table <- page_title %>%
+html_nodes("table.tableData") %>% 
+html_table(header=T)
+
+table
+
+#Converting it into a dataframe
+
+africa_df <- as.data.frame(table) 
+
+africa_df %>% head()
+
+#Renaming the columns to the desired names
+
+columns_wanted <- c("Country", "X2000", "X2030")
+africa_df <- africa_df[columns_wanted]
+
+colnames(africa_df) <- c("COUNTRY", "2000", "2030") #columns that you want in your final dataframe
+
+africa_df %>% head(5)
