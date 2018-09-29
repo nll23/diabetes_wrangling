@@ -1,0 +1,15 @@
+library(tidyverse)
+library(magrittr) # better handling of pipes
+library(purrr) # to work with lists and map functions
+library(glue) # to paste strings 
+library(stringr) # to hand strings
+library(rvest) # to make scraping easier
+library(politeness) # (polite has been changed to politeness). politeness is the "polite" version of rvest
+library(htmltab)
+library(dplyr)
+library(tidyr)
+
+#Scraping the table for the africa region from who website
+url_titles <- "http://www.who.int/diabetes/facts/world_figures/en/index1.html" # this is the base url from where the scraping starts
+page_title <- read_html(url_titles)
+
