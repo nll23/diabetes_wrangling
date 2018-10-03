@@ -8,3 +8,13 @@
   --Scraping data about diabetes data worldwide from the webpage, wrangle it and  
     visualising it.
   We also developed some initial codes.
+  
+  -----------------------Edited by Nimmy---------------------------
+  Following tasks have been completed on 29-09-2018
+  1. Started a github space for uploading our project work
+  2. Finalized datasets from 3 csv files along with multiple datasets from WHO website for web scraping
+  3. Unmesh worked on the web scraping part and combined all the datasets from multiple pages for diabetes prevalance of all world              countries for the year 2000 and predicted values for 2030. 
+  4. Maya worked on the diabetes hospital admission data for USA. Since it is a huge dataset with messy data, it will take time for            cleaning it up a bit.
+  5. Nimmy worked on the population data set and diabetes prevalance data set of all the world countries provided by UN. She has joined        the two data sets.
+  6. We are planning to relate the world countries datasets from web scraping and csv
+  -----------------------------------------------------------------
