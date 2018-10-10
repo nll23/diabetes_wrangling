@@ -18,3 +18,17 @@
   5. Nimmy worked on the population data set and diabetes prevalance data set of all the world countries provided by UN. She has joined        the two data sets.
   6. We are planning to relate the world countries datasets from web scraping and csv
   -----------------------------------------------------------------
+
+
+---------Tasks completed on 04-10-2018-------------------
+1. Had a group discussion/ feedback session with group 4.
+2. Unmesh plotted the diabetes prevalance rate over the whole world for 2000 and 2030.
+3. Nimmy plotted the latest diabetes prevalance of the entire world for 2017
+4. Maya worked on the wrangling part and scraped a webpage for getting the details of diabetes variables.
+------------------------------------------------------------------
+
+-------------------Tasks completed on 09-10-2018-----------------------
+1. Maya worked on the wrangling part and started on the analytics part.
+2. Unmesh worked on a new dataset for US mortality rates due to diabetes and plotted the mortality rate for all counties in US
+3. Nimmy worked on plotting the mortality rate for all counties in US
+----------------------------------------------------------------------
