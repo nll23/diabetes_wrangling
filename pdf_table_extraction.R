@@ -7,7 +7,7 @@ location <- 'C:/Users/uuunm/Downloads/Atlas-8e-regional-fact-sheet-1899-EUR.pdf'
 # Extract the table
 europe_table <- extract_tables(location)
 #europe_table
-europe_df <- as.data.frame(out, header=T)
+europe_df <- as.data.frame(europe_table, header=T)
 #europe_df
 header_true <- function(df) {
   names(df) <- as.character(unlist(df[1,]))
