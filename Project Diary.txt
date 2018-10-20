@@ -45,8 +45,21 @@
 3. Nimmy worked on plotting the mortality rate for all counties in US
 -----------------------------------------------------------------------------------------
 
+-------------------Tasks completed on 11-10-2018----------------------------------------
+1. Maya worked on the analytics and visualization part of diabetes hospitalisation data.
+2. Unmesh worked on the commenting and documentation part of code.
+3. Nimmy worked on further visualizations for the US mortality rate of US data
+-----------------------------------------------------------------------------------------
+
+-------------------Tasks completed on 16-10-2018----------------------------------------
+1. Maya worked on the visualization part of diabetes hospitalisation data
+2. Unmesh worked on the pdf scraping. (Scraped a table from PDF)
+3. Nimmy worked on the Julia part of wrangling of the diabetes prevalence data
+-----------------------------------------------------------------------------------------
+
 -------------------Tasks completed on 17-10-2018--------------------------------------
 1. Maya worked on the visualisations using julia on the diabetes hospitalisation dataset.
-2. Unmesh worked on a pdf scraping. (Scraped a table from PDF)
-3. Nimmy worked on plotting the mortality rate for all counties in US
+2. Unmesh worked on the visualization for the pdf scraped output.
+3. Nimmy worked on the Julia part of visualization for the diabetes prevalence data
+4. All of us worked on the slides for presentation
 ----------------------------------------------------------------------------------
