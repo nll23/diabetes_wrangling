@@ -1,4 +1,5 @@
 #Reference: https://datascienceplus.com/extracting-tables-from-pdfs-in-r-using-the-tabulizer-package/
+#Author: Unmesh Jyoti Nitin
 library(tabulizer)
 library(dplyr)
 library(tidyverse)
